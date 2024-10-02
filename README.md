@@ -1,5 +1,8 @@
 # GEN AI-Powered Socratic Teaching Assistant
 
+## Live Demo
+https://genai-socratic-teaching-assistant.streamlit.app/
+
 ## Overview
 This project is a generative AI-powered teaching assistant focused on Data Structures and Algorithms (DSA). Built using Google's Gemini 1.5 Flash model, it employs Socratic questioning to guide students in their learning process without providing direct answers.
 
@@ -35,3 +38,7 @@ To run this project locally:
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+3. GEMINI_API_KEY=your_api_key_here
+4. streamlit run app.py
+
+
